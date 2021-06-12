@@ -1,0 +1,7 @@
+Hi friends
+
+WINDOWS If you are in Windows, go to cmd and use the python ip.py command
+Run the tool.
+
+LINUX  If you are in Linux, open the terminal and go to the folder
+location with the cd command and run the tool with the python ip.py command and get ip public
